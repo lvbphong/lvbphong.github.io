@@ -1,9 +1,16 @@
-avatar: images/4x4.jpg
+# avatar: images/4x4.jpg
+
+# additional_links:
+#   - title: Download CV (PDF)
+#     icon: fas fa-download
+#     url: LVBPhong_CV.pdf
+avatar: https://raw.githubusercontent.com/lvbphong/lvbphong.github.io/master/images/4x4.jpg
 
 additional_links:
   - title: Download CV (PDF)
     icon: fas fa-download
-    url: LVBPhong_CV.pdf
+    url: https://raw.githubusercontent.com/lvbphong/lvbphong.github.io/master/LVBPhong_CV.pdf
+
 title: Le Van Bao Phong
 description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
 
