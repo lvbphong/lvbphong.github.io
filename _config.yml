@@ -19,23 +19,21 @@ darkmode: true
 
 content:
 
-
-# 🔹 SUMMARY
   - title: Summary
     layout: text
     content: |
       Results-driven Senior Embedded Software Engineer with 5+ years of experience in automotive infotainment and camera systems.  
       Strong expertise in **C++ on QNX**, **Android AOSP**, real-time camera frameworks, **OpenGL rendering**, and **Qt/QML HMI**.  
       Passionate about leveraging AI tools like **GitHub Copilot** and **Cursor** to accelerate development while maintaining high-quality architecture.
-=======
-# Education
-education:
-  - degree: Bachelor of Industrial Informatics
-    school: Da Nang University of Science and Technology - GPA: 3/4
-    dates: 2015 - 2020     # Please update the correct years
 
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Bachelor of Industrial Informatics (GPA: 3/4)
+        sub_title: Da Nang University of Science and Technology
+        caption: 2016 – 2020
 
-# 🔹 EXPERIENCE
   - title: Experience
     layout: list
     content:
@@ -51,7 +49,6 @@ education:
           - Developed HMI apps (**Qt/QML**) integrated with **CAN & SOME/IP**.
           - Worked with global customers and cross-functional teams.
 
-
       - layout: left
         title: Vietnam Solar Power EPC
         sub_title: Software Engineering Intern
@@ -60,7 +57,6 @@ education:
           - Developed SCADA HMI for solar systems using **C++**, **LabVIEW**, and **SQL**.
           - Displayed real-time inverter monitoring and control dashboards.
 
-# 🔹 SKILLS
   - title: Skills
     layout: text
     content: |
@@ -71,7 +67,6 @@ education:
       **Automotive:** CAN, SOME/IP, Automotive Ethernet  
       **AI Tools:** GitHub Copilot, Cursor  
 
-# 🔹 EDUCATION
   - title: Education
     layout: list
     content:
@@ -80,7 +75,6 @@ education:
         sub_title: Da Nang University of Science and Technology
         caption: 2016 – 2020
 
-# 🔹 CERTIFICATIONS
   - title: Certifications
     layout: text
     content: |
@@ -88,7 +82,6 @@ education:
       - TOEIC 600  
       - Scrum Master I  
 
-# 🔹 PROJECT / HIGHLIGHT (optional but recommended)
   - title: Highlights
     layout: text
     content: |
@@ -96,7 +89,6 @@ education:
       - Strong experience in automotive-grade software systems.  
       - Experienced in cross-team and international collaboration.  
 
-# 🔹 DOWNLOAD CV (🔥 FIX CHUẨN)
   - title: Resume
     layout: list
     content:
@@ -112,11 +104,3 @@ education:
     layout: text
     content: |
       Football • Travelling • Music • Chess
-=======
-# Interests
-interests:
-  - Football
-  - Travelling
-  - Music
-  - Photograph
-
