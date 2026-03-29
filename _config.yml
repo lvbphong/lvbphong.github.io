@@ -3,6 +3,7 @@
 # =========================
 
 avatar: images/4x4.jpg
+
 name: Le Van Bao Phong
 title: Senior Embedded Software Engineer
 email: lvbphong@gmail.com
@@ -16,11 +17,23 @@ description: "Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
 
 darkmode: true
 
+
+
 # =========================
 # CONTENT
 # =========================
 
 content:
+  # 🔹 RESUME DOWNLOAD (FIX CHUẨN)
+  - title: Resume
+    layout: list
+    content:
+      - title: "📄 Download CV"
+        description: Latest updated version of my resume
+        additional_links:
+          - title: Download PDF
+            icon: fas fa-download
+            url: LVBPhong_CV.pdf
 
   # 🔹 SUMMARY
   - title: Summary
@@ -30,6 +43,15 @@ content:
       Strong expertise in **C++ on QNX**, **Android AOSP**, real-time camera frameworks, **OpenGL rendering**, and **Qt/QML HMI**.  
       Passionate about leveraging AI tools like **GitHub Copilot** and **Cursor** to accelerate development while maintaining high-quality architecture.
 
+  # 🔹 EDUCATION
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: "Bachelor of Industrial Informatics (GPA: 3/4)"
+        sub_title: Da Nang University of Science and Technology
+        caption: "2016 – 2020"
+        
   # 🔹 EXPERIENCE
   - title: Experience
     layout: list
@@ -65,14 +87,6 @@ content:
       **Automotive:** CAN, SOME/IP, Automotive Ethernet  
       **AI Tools:** GitHub Copilot, Cursor  
 
-  # 🔹 EDUCATION
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: "Bachelor of Industrial Informatics (GPA: 3/4)"
-        sub_title: Da Nang University of Science and Technology
-        caption: "2016 – 2020"
 
   # 🔹 CERTIFICATIONS
   - title: Certifications
@@ -82,24 +96,6 @@ content:
       - TOEIC 600  
       - Scrum Master I  
 
-  # 🔹 HIGHLIGHTS
-  - title: Highlights
-    layout: text
-    content: |
-      - Built full camera pipeline from low-level driver to UI rendering.  
-      - Strong experience in automotive-grade software systems.  
-      - Experienced in cross-team and international collaboration.  
-
-  # 🔹 RESUME DOWNLOAD (FIX CHUẨN)
-  - title: Resume
-    layout: list
-    content:
-      - title: "📄 Download CV"
-        description: Latest updated version of my resume
-        additional_links:
-          - title: Download PDF
-            icon: fas fa-download
-            url: LVBPhong_CV.pdf
 
   # 🔹 INTERESTS
   - title: Interests
