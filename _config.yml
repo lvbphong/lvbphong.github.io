@@ -1,15 +1,18 @@
-# Basic Info
+# =========================
+# BASIC INFO
+# =========================
+
 avatar: images/4x4.jpg
 name: Le Van Bao Phong
 title: Senior Embedded Software Engineer
 email: lvbphong@gmail.com
-phone: (+84) 947 531 964
+phone: "(+84) 947 531 964"
 location: Da Nang, Vietnam
 
 github_username: lvbphong
 linkedin_username: phong-le-van-bao
 
-description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
+description: "Senior Embedded Software Engineer (C++ | QNX | Android Automotive)"
 
 darkmode: true
 
@@ -19,6 +22,7 @@ darkmode: true
 
 content:
 
+  # 🔹 SUMMARY
   - title: Summary
     layout: text
     content: |
@@ -26,21 +30,14 @@ content:
       Strong expertise in **C++ on QNX**, **Android AOSP**, real-time camera frameworks, **OpenGL rendering**, and **Qt/QML HMI**.  
       Passionate about leveraging AI tools like **GitHub Copilot** and **Cursor** to accelerate development while maintaining high-quality architecture.
 
-  - title: Education
-    layout: list
-    content:
-      - layout: left
-        title: Bachelor of Industrial Informatics (GPA: 3/4)
-        sub_title: Da Nang University of Science and Technology
-        caption: 2016 – 2020
-
+  # 🔹 EXPERIENCE
   - title: Experience
     layout: list
     content:
       - layout: left
         title: LG Electronics – VS DC Vietnam
         sub_title: Senior Embedded Software Engineer
-        caption: Oct 2020 – Present | Da Nang, Vietnam
+        caption: "Oct 2020 – Present | Da Nang, Vietnam"
         description: |
           - Developed camera framework on **QNX** using **libevc** and **OpenGL** for real-time rendering (Surround View & DMS).
           - Built automated testing system with **Robot Framework** + AI-assisted scripting.
@@ -52,11 +49,12 @@ content:
       - layout: left
         title: Vietnam Solar Power EPC
         sub_title: Software Engineering Intern
-        caption: Mar 2020 – Aug 2020
+        caption: "Mar 2020 – Aug 2020"
         description: |
           - Developed SCADA HMI for solar systems using **C++**, **LabVIEW**, and **SQL**.
           - Displayed real-time inverter monitoring and control dashboards.
 
+  # 🔹 SKILLS
   - title: Skills
     layout: text
     content: |
@@ -67,14 +65,16 @@ content:
       **Automotive:** CAN, SOME/IP, Automotive Ethernet  
       **AI Tools:** GitHub Copilot, Cursor  
 
+  # 🔹 EDUCATION
   - title: Education
     layout: list
     content:
       - layout: left
-        title: Bachelor of Industrial Informatics
+        title: "Bachelor of Industrial Informatics (GPA: 3/4)"
         sub_title: Da Nang University of Science and Technology
-        caption: 2016 – 2020
+        caption: "2016 – 2020"
 
+  # 🔹 CERTIFICATIONS
   - title: Certifications
     layout: text
     content: |
@@ -82,6 +82,7 @@ content:
       - TOEIC 600  
       - Scrum Master I  
 
+  # 🔹 HIGHLIGHTS
   - title: Highlights
     layout: text
     content: |
@@ -89,17 +90,18 @@ content:
       - Strong experience in automotive-grade software systems.  
       - Experienced in cross-team and international collaboration.  
 
+  # 🔹 RESUME DOWNLOAD (FIX CHUẨN)
   - title: Resume
     layout: list
     content:
-      - title: 📄 Download CV
+      - title: "📄 Download CV"
         description: Latest updated version of my resume
         additional_links:
           - title: Download PDF
             icon: fas fa-download
             url: LVBPhong_CV.pdf
 
-# 🔹 INTERESTS
+  # 🔹 INTERESTS
   - title: Interests
     layout: text
     content: |
