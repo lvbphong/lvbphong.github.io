@@ -1,82 +1,105 @@
+# Basic Info
 avatar: images/4x4.jpg
-
-additional_links:
-  - title: Download CV (PDF)
-    icon: fas fa-download
-    url: LVBPhong_CV.pdf
-# avatar: https://raw.githubusercontent.com/lvbphong/lvbphong.github.io/master/images/4x4.jpg
-
-# additional_links:
-#   - title: Download CV (PDF)
-#     icon: fas fa-download
-#     url: https://raw.githubusercontent.com/lvbphong/lvbphong.github.io/master/LVBPhong_CV.pdf
-
-title: Le Van Bao Phong
-description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
-
-# Hero Section
 name: Le Van Bao Phong
 title: Senior Embedded Software Engineer
-location: Da Nang, Vietnam
 email: lvbphong@gmail.com
 phone: (+84) 947 531 964
-linkedin: https://linkedin.com/in/phong-le-van-bao
-github: https://github.com/lvbphong
+location: Da Nang, Vietnam
 
+github_username: lvbphong
+linkedin_username: phong-le-van-bao
 
-# Summary
-summary: |
-  Results-driven Senior Embedded Software Engineer with over 5 years of experience specializing in automotive infotainment and camera systems. 
-  Expertise in C++ development on QNX and Android AOSP, real-time camera frameworks, OpenGL rendering, and Qt/QML HMI. 
-  Actively leverage AI-powered tools (GitHub Copilot, Cursor) to boost productivity while maintaining high code quality and architecture standards.
+description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
 
-# Experience
-experiences:
-  - company: LG Electronics – Vehicle Component Solutions Development Center Vietnam
-    role: Senior Embedded Software Engineer
-    dates: Oct 2020 – Present
-    location: Da Nang, Vietnam
-    details: |
-      - Developed early-stage camera framework on **QNX** using **libevc** and **OpenGL** for real-time frame rendering in surround-view and driver monitoring systems.
-      - Built a fully automated end-to-end testing system using **Robot Framework** combined with AI-assisted scripting and test case generation.
-      - Led Android Camera Framework & Plugin Service: Screen Share feature, **Camera2 API**, Camera HAL, and SurfaceFlinger using **Java** and **Kotlin**.
-      - Designed and developed WebApp Lifecycle Manager and integrated **Node.js** engine on embedded Linux platform.
-      - Developed HMI applications (Seat control, Climate control, etc.) using **Qt/QML** with communication via **CAN** and **SOME/IP** protocols.
-      - Collaborated with foreign customers, vendors, and third-party partners.
+darkmode: false
 
-  - company: Vietnam Solar Power EPC Corporation
-    role: Software Engineering Intern
-    dates: Mar 2020 – Aug 2020
-    location: Vietnam
-    details: |
-      - Designed and developed SCADA HMI for solar power systems using C++, LabVIEW, and SQL to display real-time inverter status.
+# =========================
+# CONTENT
+# =========================
 
-# Skills
-skills:
-  - C++ (Advanced)
-  - Java (Good), Kotlin (Good)
-  - Qt/QML, OpenGL, Node.js, WebSocket
-  - QNX, Android AOSP (Camera2 API, Camera HAL, SurfaceFlinger)
-  - Embedded Linux, Robot Framework
-  - Git, Jira, CANoe, CMake, Gerrit, Jenkins
-  - Automotive Protocols: CAN, SOME/IP, Automotive Ethernet
-  - AI-Assisted Development: GitHub Copilot, Cursor
+content:
 
-# Education
-education:
-  - degree: Bachelor of Industrial Informatics
-    school: Da Nang University of Science and Technology
-    dates: 2016 - 2020     # Please update the correct years
+# 🔹 SUMMARY
+  - title: Summary
+    layout: text
+    content: |
+      Results-driven Senior Embedded Software Engineer with 5+ years of experience in automotive infotainment and camera systems.  
+      Strong expertise in **C++ on QNX**, **Android AOSP**, real-time camera frameworks, **OpenGL rendering**, and **Qt/QML HMI**.  
+      Passionate about leveraging AI tools like **GitHub Copilot** and **Cursor** to accelerate development while maintaining high-quality architecture.
 
-# Certifications
-certifications:
-  - French DELF B1
-  - TOEIC 600
-  - Scrum Master I
+# 🔹 EXPERIENCE
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: LG Electronics – VS DC Vietnam
+        sub_title: Senior Embedded Software Engineer
+        caption: Oct 2020 – Present | Da Nang, Vietnam
+        description: |
+          - Developed camera framework on **QNX** using **libevc** and **OpenGL** for real-time rendering (Surround View & DMS).
+          - Built automated testing system with **Robot Framework** + AI-assisted scripting.
+          - Led Android Camera Framework (**Camera2 API, HAL, SurfaceFlinger**) using **Java/Kotlin**.
+          - Designed WebApp Lifecycle Manager with **Node.js** on embedded Linux.
+          - Developed HMI apps (**Qt/QML**) integrated with **CAN & SOME/IP**.
+          - Worked with global customers and cross-functional teams.
 
-# Interests
-interests:
-  - Football
-  - Travelling
-  - Music
-  - Chess
+      - layout: left
+        title: Vietnam Solar Power EPC
+        sub_title: Software Engineering Intern
+        caption: Mar 2020 – Aug 2020
+        description: |
+          - Developed SCADA HMI for solar systems using **C++**, **LabVIEW**, and **SQL**.
+          - Displayed real-time inverter monitoring and control dashboards.
+
+# 🔹 SKILLS
+  - title: Skills
+    layout: text
+    content: |
+      **Languages:** C++ (Advanced), Java, Kotlin  
+      **Frameworks & Tools:** Qt/QML, OpenGL, Node.js, WebSocket  
+      **Platforms:** QNX, Android AOSP (Camera2, HAL, SurfaceFlinger), Embedded Linux  
+      **Testing & Tools:** Robot Framework, Git, Jira, CMake, Gerrit, Jenkins  
+      **Automotive:** CAN, SOME/IP, Automotive Ethernet  
+      **AI Tools:** GitHub Copilot, Cursor  
+
+# 🔹 EDUCATION
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Bachelor of Industrial Informatics
+        sub_title: Da Nang University of Science and Technology
+        caption: 2016 – 2020
+
+# 🔹 CERTIFICATIONS
+  - title: Certifications
+    layout: text
+    content: |
+      - French DELF B1  
+      - TOEIC 600  
+      - Scrum Master I  
+
+# 🔹 PROJECT / HIGHLIGHT (optional but recommended)
+  - title: Highlights
+    layout: text
+    content: |
+      - Built full camera pipeline from low-level driver to UI rendering.  
+      - Strong experience in automotive-grade software systems.  
+      - Experienced in cross-team and international collaboration.  
+
+# 🔹 DOWNLOAD CV (🔥 FIX CHUẨN)
+  - title: Resume
+    layout: list
+    content:
+      - title: 📄 Download CV
+        description: Latest updated version of my resume
+        additional_links:
+          - title: Download PDF
+            icon: fas fa-download
+            url: LVBPhong_CV.pdf
+
+# 🔹 INTERESTS
+  - title: Interests
+    layout: text
+    content: |
+      Football • Travelling • Music • Chess
