@@ -1,3 +1,9 @@
+avatar: /images/4x4.jpg
+
+additional_links:
+  - title: Download CV (PDF)
+    icon: fas fa-download
+    url: /LVBPhong_CV.pdf
 title: Le Van Bao Phong
 description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
 
@@ -9,6 +15,7 @@ email: lvbphong@gmail.com
 phone: (+84) 947 531 964
 linkedin: https://linkedin.com/in/phong-le-van-bao
 github: https://github.com/lvbphong
+
 
 # Summary
 summary: |
