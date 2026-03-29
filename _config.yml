@@ -20,7 +20,7 @@ github: https://github.com/lvbphong
 # Summary
 summary: |
   Results-driven Senior Embedded Software Engineer with over 5 years of experience specializing in automotive infotainment and camera systems. 
-  Expertise in C++ development on QNX RTOS and Android AOSP, real-time camera frameworks, OpenGL rendering, and Qt/QML HMI. 
+  Expertise in C++ development on QNX and Android AOSP, real-time camera frameworks, OpenGL rendering, and Qt/QML HMI. 
   Actively leverage AI-powered tools (GitHub Copilot, Cursor) to boost productivity while maintaining high code quality and architecture standards.
 
 # Experience
@@ -30,7 +30,7 @@ experiences:
     dates: Oct 2020 – Present
     location: Da Nang, Vietnam
     details: |
-      - Developed early-stage camera framework on **QNX RTOS** using **libevc** and **OpenGL** for real-time frame rendering in surround-view and driver monitoring systems.
+      - Developed early-stage camera framework on **QNX** using **libevc** and **OpenGL** for real-time frame rendering in surround-view and driver monitoring systems.
       - Built a fully automated end-to-end testing system using **Robot Framework** combined with AI-assisted scripting and test case generation.
       - Led Android Camera Framework & Plugin Service: Screen Share feature, **Camera2 API**, Camera HAL, and SurfaceFlinger using **Java** and **Kotlin**.
       - Designed and developed WebApp Lifecycle Manager and integrated **Node.js** engine on embedded Linux platform.
@@ -49,7 +49,7 @@ skills:
   - C++ (Advanced)
   - Java (Good), Kotlin (Good)
   - Qt/QML, OpenGL, Node.js, WebSocket
-  - QNX RTOS, Android AOSP (Camera2 API, Camera HAL, SurfaceFlinger)
+  - QNX, Android AOSP (Camera2 API, Camera HAL, SurfaceFlinger)
   - Embedded Linux, Robot Framework
   - Git, Jira, CANoe, CMake, Gerrit, Jenkins
   - Automotive Protocols: CAN, SOME/IP, Automotive Ethernet
