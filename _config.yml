@@ -11,7 +11,7 @@ linkedin_username: phong-le-van-bao
 
 description: Senior Embedded Software Engineer (C++ | QNX | Android Automotive)
 
-darkmode: false
+darkmode: true
 
 # =========================
 # CONTENT
@@ -19,7 +19,7 @@ darkmode: false
 
 content:
 
-<<<<<<< HEAD
+
 # 🔹 SUMMARY
   - title: Summary
     layout: text
@@ -33,7 +33,7 @@ education:
   - degree: Bachelor of Industrial Informatics
     school: Da Nang University of Science and Technology - GPA: 3/4
     dates: 2015 - 2020     # Please update the correct years
->>>>>>> b5fd47eb356301349b316f74f41374b6289f0d8d
+
 
 # 🔹 EXPERIENCE
   - title: Experience
@@ -51,7 +51,7 @@ education:
           - Developed HMI apps (**Qt/QML**) integrated with **CAN & SOME/IP**.
           - Worked with global customers and cross-functional teams.
 
-<<<<<<< HEAD
+
       - layout: left
         title: Vietnam Solar Power EPC
         sub_title: Software Engineering Intern
@@ -119,4 +119,4 @@ interests:
   - Travelling
   - Music
   - Photograph
->>>>>>> b5fd47eb356301349b316f74f41374b6289f0d8d
+
