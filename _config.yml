@@ -65,8 +65,8 @@ skills:
 # Education
 education:
   - degree: Bachelor of Industrial Informatics
-    school: Da Nang University of Science and Technology
-    dates: 2016 - 2020     # Please update the correct years
+    school: Da Nang University of Science and Technology - GPA: 3/4
+    dates: 2015 - 2020     # Please update the correct years
 
 # Certifications
 certifications:
@@ -79,4 +79,4 @@ interests:
   - Football
   - Travelling
   - Music
-  - Chess
+  - Photograph
